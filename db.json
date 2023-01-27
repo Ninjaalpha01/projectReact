@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Projeto Maquina",
-      "budget": "4800",
+      "budget": "1000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -16,8 +16,8 @@
         "id": "3",
         "name": "Design"
       },
-      "name": "Instagram Empresa",
-      "budget": "400",
+      "name": "Instagram Empresa ",
+      "budget": "4000",
       "cost": 0,
       "services": [],
       "id": 5
@@ -28,9 +28,28 @@
         "name": "Outros"
       },
       "name": "Comprar marmita",
-      "budget": "20",
-      "cost": 0,
-      "services": [],
+      "budget": "300",
+      "cost": 300,
+      "services": [
+        {
+          "name": "Comprar pratos",
+          "cost": "100",
+          "description": "Pratos descartaveis",
+          "id": "2a2c27c8-a773-404c-9774-159cc445d8e4"
+        },
+        {
+          "name": "Comprar talheres",
+          "cost": "100",
+          "description": "Talheres de ferro",
+          "id": "a299af2f-56d7-4076-973b-6b4b27d70df5"
+        },
+        {
+          "name": "Chamar o povo",
+          "cost": "100",
+          "description": "Convidar todo mundo pra comer",
+          "id": "adf2f076-3404-4479-aab7-0f2dc7442695"
+        }
+      ],
       "id": 6
     }
   ],
